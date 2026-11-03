@@ -1,0 +1,17 @@
+{
+  "title": "Benchmark Task Suite",
+  "duration_seconds": 40,
+  "playback_speed": 3,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "rows": 5,
+  "columns": 6,
+  "slots": [
+    "clips/01.mp4", "clips/02.mp4", "clips/03.mp4", "clips/04.mp4", "clips/05.mp4", "clips/06.mp4",
+    "clips/07.mp4", "clips/08.mp4", "clips/09.mp4", "clips/10.mp4", "clips/11.mp4", "clips/12.mp4",
+    "clips/13.mp4", "clips/14.mp4", "clips/15.mp4", "clips/16.mp4", "clips/17.mp4", "clips/18.mp4",
+    "clips/19.mp4", "clips/20.mp4", "clips/21.mp4", "clips/22.mp4", "clips/23.mp4", "clips/24.mp4",
+    "clips/25.mp4", "clips/26.mp4", "clips/27.mp4", "clips/28.mp4", "clips/29.mp4", "clips/30.mp4"
+  ]
+}
